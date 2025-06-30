@@ -245,6 +245,9 @@ app.get("/exercise_info",(req,res,next)=>{
     next();
 });
 });
+setInterval(() => {
+  window.location.reload();
+}, 1800 * 1000);
 
 
 /*
