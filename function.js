@@ -11,7 +11,7 @@ import dotenv from "dotenv";
 
 const app=express();
 dotenv.config();
-const port=8080;
+const port=3030;
 const secret_id=process.env.SECRETID;
 
 app.use(express.urlencoded({ extended: true }));

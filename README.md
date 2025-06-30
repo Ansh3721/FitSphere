@@ -10,7 +10,7 @@ A **Web-Based Fitness Tracker Dashboard** that allows users to **log workouts, t
 ✅ Responsive UI for mobile & desktop  
 
 ## 🛠️ Technologies Used  
-- **Frontend:** HTML, CSS, JavaScript, React  
+- **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Node.js, Express.js  
 - **Database:** MySql  
 
